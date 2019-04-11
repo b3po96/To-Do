@@ -106,3 +106,4 @@ venv.bak/
 # Visual Studio specific
 *.sln
 *.pyproj
+*.vs
